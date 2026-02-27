@@ -1,6 +1,5 @@
 ## 🦷 Projeto Turma do Bem - Gestão de Atendimento Odontológico
-
-[cite_start]Este repositório contém a camada de **Backend** desenvolvida em **Java** para o projeto social **Turma do Bem**, realizado como parte da formação acadêmica na **FIAP**[cite: 5, 35]. O foco do sistema é organizar o fluxo de voluntariado e atendimento odontológico gratuito para populações em situação de vulnerabilidade social.
+]Este repositório contém a camada de **Backend** desenvolvida em **Java** para o projeto social **Turma do Bem**, realizado como parte da formação acadêmica na **FIAP**. O foco do sistema é organizar o fluxo de voluntariado e atendimento odontológico gratuito para populações em situação de vulnerabilidade social.
 
 ## 👨‍💻 Sobre o Desenvolvedor
 [cite_start]**Felipe Cuesta Puerta de Oliveira**.
@@ -31,4 +30,4 @@ O sistema foi modelado para refletir o ecossistema da ONG Turma do Bem, utilizan
 4. [cite_start]Navegue até o diretório `src/br/com/fiap/entities/` para visualizar a lógica das classes[cite: 39].
 
 ---
-[cite_start]✨ *Projeto desenvolvido por [Felipe Cuesta](www.linkedin.com/in/felipe-cuesta-20a813319)* [cite: 1, 2]
+✨ *Projeto desenvolvido por [Felipe Cuesta](www.linkedin.com/in/felipe-cuesta-20a813319)* 
