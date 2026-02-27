@@ -3,16 +3,16 @@
 [cite_start]Este repositório contém a camada de **Backend** desenvolvida em **Java** para o projeto social **Turma do Bem**, realizado como parte da formação acadêmica na **FIAP**[cite: 5, 35]. O foco do sistema é organizar o fluxo de voluntariado e atendimento odontológico gratuito para populações em situação de vulnerabilidade social.
 
 ## 👨‍💻 Sobre o Desenvolvedor
-[cite_start]**Felipe Cuesta Puerta de Oliveira** [cite: 1]
-* [cite_start]🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas - **FIAP** (2º Semestre)[cite: 5].
-* [cite_start]🏆 **Certificação:** Scrum Fundamentals Certified (SFC)[cite: 34].
-* [cite_start]🚀 **Objetivo:** Aplicar tecnologia para criar soluções de impacto social e eficiência técnica[cite: 10].
+[cite_start]**Felipe Cuesta Puerta de Oliveira**.
+* [cite_start]🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas - **FIAP** (2º Semestre).
+* [cite_start]🏆 **Certificação:** Scrum Fundamentals Certified (SFC)=].
+* [cite_start]🚀 **Objetivo:** Aplicar tecnologia para criar soluções de impacto social e eficiência técnica.
 
 ## 🛠️ Tecnologias e Ferramentas
-* [cite_start]**Linguagem Principal:** Java (JDK)[cite: 13, 39].
-* [cite_start]**IDE utilizada:** IntelliJ IDEA[cite: 13, 38].
-* [cite_start]**Versionamento:** Git & GitHub[cite: 16].
-* **Estruturação:** Programação Orientada a Objetos (POO).
+* [cite_start]**Linguagem Principal:** Java (JDK)
+* [cite_start]**IDE utilizada:** IntelliJ IDEA
+* [cite_start]**Versionamento:** Git & GitHub
+* **Estruturação:** Programação Orientada a Objetos 
 
 ## 📂 Estrutura do Projeto (Entidades)
 O sistema foi modelado para refletir o ecossistema da ONG Turma do Bem, utilizando as seguintes classes principais:
